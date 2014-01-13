@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map MessageComIR
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+MessageComIR	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+addStateToAck	KEYWORD2
+getStateFromAckValue	KEYWORD2
+checkAck	KEYWORD2
+calcCrc	KEYWORD2
+snd	KEYWORD2
+sendAck	KEYWORD2
+sendTask	KEYWORD2
+sendQuantity	KEYWORD2
+sendTerm	KEYWORD2
+sendDataAndChecksum	KEYWORD2
+send	KEYWORD2
+receiveAck	KEYWORD2
+receiveTask	KEYWORD2
+receiveQuantity	KEYWORD2
+receiveTerm	KEYWORD2
+receiveChecksum	KEYWORD2
+receiveDataAndChecksum	KEYWORD2
+recv	KEYWORD2
+receive	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################

@@ -1,0 +1,16 @@
+h1. MessageComIR
+
+Version 0.5 Implementation as Arduino Library
+
+h2. _What is it?_
+
+MessageComIR is a library to facilitate communication between devices via Infrared.
+
+h2. _How does it work?_
+
+The Library uses sequential communication via Infrared.
+
+h2. _Why should I use the Library?_
+
+The library supports you in IR-communication.
+The library brings with useful methods for you to facilitate the communication, some obvious things.
